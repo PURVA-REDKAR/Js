@@ -1,0 +1,113 @@
+<info>
+    <who>--Select--</who>
+	<who>Gryffindor</who>
+	<who>Hufflepuff</who>
+	<who>Ravenclaw</who>
+	<who>Slytherin</who>
+	<houseCharect>
+	<Gryffindor>--Select--</Gryffindor>
+	<Gryffindor>Hermione Granger</Gryffindor>
+	<Gryffindor>Minerva McGonagall</Gryffindor>
+	<Gryffindor>Ron Weasley</Gryffindor>
+	<Hufflepuff>--Select--</Hufflepuff>
+	<Hufflepuff>Cedric Diggory</Hufflepuff>
+	<Hufflepuff>Newt Scamander</Hufflepuff>
+	<Ravenclaw>--Select--</Ravenclaw>
+	<Ravenclaw>Cho Chang</Ravenclaw>
+	<Ravenclaw>Luna Lovegood</Ravenclaw>
+	<Ravenclaw>Sybill Trelawney</Ravenclaw>
+	<Slytherin>--Select--</Slytherin>
+	<Slytherin>Bellatrix Black</Slytherin>
+	<Slytherin>Lucius Malfoy</Slytherin>
+	<Slytherin>Draco Malfoy</Slytherin>	
+	</houseCharect>
+	<gryf>
+	<HermioneGranger>--Select--</HermioneGranger>
+	<HermioneGranger>Confringo</HermioneGranger>
+	<HermioneGranger>Deprimo</HermioneGranger>
+	<MinervaMcGonagall>--Select--</MinervaMcGonagall>
+	<MinervaMcGonagall>Expelliarmus</MinervaMcGonagall>
+	<MinervaMcGonagall>Impedimenta</MinervaMcGonagall>
+	<RonWeasley>--Select--</RonWeasley>
+	<RonWeasley>Impedimenta</RonWeasley>
+	<RonWeasley>Protego totalum</RonWeasley>
+	</gryf>
+	<Huffpuf> 
+	<NewtScamander>--Select--</NewtScamander>
+	<NewtScamander>Deprimo</NewtScamander>
+	<NewtScamander>Expelliarmus</NewtScamander>
+	<CedricDiggory>--Select--</CedricDiggory>
+	<CedricDiggory>Deprimo</CedricDiggory>
+	<CedricDiggory>Expelliarmus</CedricDiggory>
+	</Huffpuf>
+	<Raven>
+	<ChoChang>--Select--</ChoChang>
+	<ChoChang>Deprimo</ChoChang>
+	<ChoChang>Expelliarmus</ChoChang>
+	<SybillTrelawney>--Select--</SybillTrelawney>
+	<SybillTrelawney>Deprimo</SybillTrelawney>
+	<SybillTrelawney>Expelliarmus</SybillTrelawney>
+	<LunaLovegood>--Select--</LunaLovegood>
+	<LunaLovegood>Deprimo</LunaLovegood>
+	<LunaLovegood>Expelliarmus</LunaLovegood>
+	</Raven>
+	<Slyth>
+	<DracoMalfoy>--Select--</DracoMalfoy>
+	<DracoMalfoy>Expulso</DracoMalfoy>
+	<DracoMalfoy>Expelliarmus</DracoMalfoy>
+	<BellatrixBlack>--Select--</BellatrixBlack>
+	<BellatrixBlack>Impedimenta</BellatrixBlack>
+	<BellatrixBlack>Finestra</BellatrixBlack>
+	<LuciusMalfoy>--Select--</LuciusMalfoy>
+	<LuciusMalfoy>Imperio</LuciusMalfoy>
+	<LuciusMalfoy>Expulso</LuciusMalfoy>
+	</Slyth>
+	<Impedimenta>--Select--</Impedimenta>
+	<Impedimenta>thoroughgoing</Impedimenta>
+	<Impedimenta>Forward</Impedimenta>
+	<partial>--select type of attack--</partial>
+	<partial>Full force</partial>
+	<partial>Save Energy</partial>
+	<SaveEnergy>done</SaveEnergy>
+	<SaveEnergy>99</SaveEnergy>
+	<Expelliarmus>--select type of attack--</Expelliarmus>
+	<Expelliarmus>Full force</Expelliarmus>
+	<Expelliarmus>Save Energy</Expelliarmus>
+	<Expulso>--select type of attack--</Expulso>
+	<Expulso>Super Power</Expulso>
+	<Expulso>Defender</Expulso>
+	<Defender>done</Defender>
+	<Defender>50</Defender>
+	<Forward>--select type of attack--</Forward>
+	<Forward>thoroughgoing</Forward>
+	<Forward>low</Forward>
+	<low>done</low>
+	<low>60</low>
+	<thoroughgoing>done</thoroughgoing>
+	<thoroughgoing>20</thoroughgoing>
+	<Protegototalum>--select type of attack--</Protegototalum>
+	<Protegototalum>Defence</Protegototalum>
+	<Protegototalum>Attack</Protegototalum>
+	<Attack>done</Attack>
+	<Attack>40</Attack>
+	<Defence>done</Defence>
+	<Defence>70</Defence>
+	<Deprimo>--select type of attack--</Deprimo>
+	<Deprimo>Attack</Deprimo>
+	<Deprimo>Defence</Deprimo>
+	<Fullforce>done</Fullforce>
+	<Fullforce>50</Fullforce>
+	<SuperPower>done</SuperPower>
+	<SuperPower>100</SuperPower>
+	<Confringo>--Select--</Confringo>
+	<Confringo>Forward</Confringo>
+	<Confringo>Super Power</Confringo>
+	<Finestra>--Select--</Finestra>
+	<Finestra>Super Power</Finestra>
+	<Finestra>Full force</Finestra>
+	<Imperio>--Select--</Imperio>
+	<Imperio>Attack</Imperio>
+	<Imperio>Defence</Imperio>
+</info> 
+
+
